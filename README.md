@@ -1,5 +1,5 @@
 # RAG_chatbot
-Allows a user to upload a PDF, ask questions about it in a chat interface, and get answers using OpenAI’s GPT-4o-mini + FAISS vector database.
+Allows a user to upload a PDF, ask questions about it in a chat interface, and get answers using OpenAI’s GPT-4o-mini + FAISS vector database implemented using Streamlit API
 
 
 🧠 Technologies Used
